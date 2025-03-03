@@ -1,1 +1,1 @@
-Here you can find the hosting link: https://vuejs-tailwind-sample.netlify.app/
+The hosting link can be found here: https://vuejs-tailwind-sample.netlify.app/
